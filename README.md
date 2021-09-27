@@ -9,3 +9,4 @@ This repo has all my experiments & exercises
       1. Week 1 Practice
       2. Week 2 Practice
       3. Week 3 Practice
+      4. Week 4 Practice : CNN, Image Data loader
